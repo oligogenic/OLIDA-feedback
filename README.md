@@ -14,11 +14,11 @@ You can now try out the website and submit feedback or issues to the issue track
 
 ## Submitting bugs, feedback or feature requests
 
-All bugs and feedback sould be submitted to the [issues](https://github.com/oligogenic/OLIDA-feedback/issues) page of this repository.
+All bugs and feedback sould be submitted to the [issues](https://github.com/oligogenic/OLIDA-feedback/issues) page of this repository. For more information on submitting issues on github, refer to the following [guide](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue).
 
 ### Bugs
 
-To submit a bug, olease follow the following guidlines:
+To submit a bug, please follow the following guidlines:
 
 * Bugs will need to be labeled as bug in the issue tracker. 
 * Try to be as concise as possible in your description of the bug.
