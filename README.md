@@ -20,10 +20,10 @@ All bugs and feedback sould be submitted to the [issues](https://github.com/olig
 
 To submit a bug, please follow the following guidlines:
 
-* Bugs will need to be labeled as bug in the issue tracker. 
-* Try to be as concise as possible in your description of the bug.
-* Screenshots are encouraged!
+* Bugs will need to be labeled as bug by starting the name of the issue with *Bug: name of the issue*
+* Try to be as concise as possible in your description of the bug. We would appreciate if the page on which the bug occured and the date and time of your visit would be minimally provided.
+* Screenshots are encouraged.
 
 ### General feedback and fearture requests
 
-Feedback can be more open in it's formulation and only requires issues to be taggfed as such. As with bugs, screenshots are encouraged tu support your feedback.
+Feedback can be more open in it's formulation and only requires issues to be marked as Feedback or Feature request in the title. Additionally, scpecifying the subject to which the feedback pertains (API, Web interface, search, submission, ...) would also be of great help. As with bugs, screenshots are encouraged to support the feedback.
