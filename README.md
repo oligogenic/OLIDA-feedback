@@ -5,7 +5,7 @@ Issue tracker and public discussions for the OLIDA web database.
 
 To request access send a mail to arnau.dillen@ulb.ac.be asking for access credentials to the OLIDA closed beta. Note that this adress will be changed to olida@ibsquare.be, but this still needs to be created.
 
-After recieving you credentials, you can surf to [olidadev.ibsquare.be](olidadev.ibsquare.be) where you will be prompted for credentials. 
+After recieving you credentials, you can surf to [olidadev.ibsquare.be](https://olidadev.ibsquare.be/) where you will be prompted for credentials. 
 
 You can now try out the website and submit feedback or issues to the issue tracker of this repository. 
 
